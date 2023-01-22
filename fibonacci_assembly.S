@@ -1,4 +1,4 @@
-.ORIG x3000
+.ORIG x0
 
 reset AND R1,R1,#0
 ADD R1, R1, #1
