@@ -1,7 +1,8 @@
 
 
 # Logisim-CPU-LC3
-An LC3 machine made with logic gates in Logisim.
+An LC3 machine made with logic gates in Logisim. Made to prepare for the logic gate elective I created while teaching at SummerTech. Logisim lets you combine logic gates to build circuits. LC3 is an educational assembly and machine language. Only a select few instructions are supported, but enough for Turing completeness. 
+
 
 # Watch a video of it running
 
